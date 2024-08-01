@@ -1,5 +1,4 @@
-
-    local ScreenGui = Instance.new("ScreenGui")
+local ScreenGui = Instance.new("ScreenGui")
     local Toggle = Instance.new("TextButton")
     local UICorner = Instance.new("UICorner")
     
